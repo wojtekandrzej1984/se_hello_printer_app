@@ -7,5 +7,5 @@ script:
   - make lint
   - make test
   - make docker_build
-  services:
+services:
   - docker
